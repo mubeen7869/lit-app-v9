@@ -1,0 +1,77 @@
+/* Registration Form Container */
+.itmain {
+    max-width: 1050px;
+    
+    margin: 0 auto;
+    padding: 30px;
+    
+  }
+  
+ 
+  .itmain .form-section {
+    
+    margin-bottom: 20px;
+  }
+  
+  /* Headers */
+  .itmain .form-section h3 {
+    cursor: pointer;
+    padding: 10px;
+    border: 1px solid black;
+    width: 700px;
+   margin-left: 100px;
+   text-align: left;
+  }
+  
+ 
+  input,
+  textarea {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+
+  label {
+    display: block;
+    margin: 10px 0 5px;
+    font-weight: bold;
+  }
+  
+  /* Table Styles */
+  .itmain .form-section table {
+    width: 700px;
+    border-collapse: collapse;
+    margin-bottom: 10px;
+    margin-left: 100px;
+  }
+  
+  th, td {
+    border: 1px solid #ddd;
+    padding: 4px;
+    text-align:left;
+  }
+  
+  h2 {
+    color: #333;
+
+  }
+  
+   h4 {
+    font-size: 15px;
+  }
+  
+
+.itlapsubmit{
+  margin-left: 72%;
+}
+
+
+.itheading{
+  font-size: 28px;
+    margin: 20px 250px 20px ;
+   
+    color: #17a2b8;
+}

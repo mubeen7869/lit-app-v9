@@ -1,0 +1,92 @@
+.title{
+    display: flex;
+    justify-content: center;
+    
+  }
+  
+  .radio1{
+    
+    display: flex;
+    justify-content: center;
+  }
+  
+  
+  .firstfloormain{
+     
+      width: 1091px;
+  }
+  
+  .firstfloormain .form-section{
+    border: 1px solid rgb(7, 1, 1);
+    width: 700px;
+    margin-left: 100px;
+  }
+  
+  
+   .firstfloorheading{
+    font-size: 28px;
+      margin: 20px 350px 20px ;
+     
+      color: #17a2b8;
+  }
+  
+  .firstfloormain .form-section table{
+    width: 600px;
+    margin-left:100px ;
+  }
+  
+  .firstfloormain .form-section h6{
+    font-size: medium;
+  }
+  
+  .addsubmit{
+    margin-left: 66%;
+  }
+  
+  
+  
+  .form-section {
+    margin-bottom: 20px;
+  }
+  
+  h6 {
+    cursor: pointer;
+    background-color: #f0f0f0;
+    padding: 10px;
+    margin: 0;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+  }
+  
+  table, th, td {
+    border: 1px solid #ddd;
+  }
+  
+  th, td {
+    padding: 10px;
+    text-align: left;
+  }
+  
+  input[type="text"] {
+    width: 100%;
+    padding: 8px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 10px;
+  }
+  
+  .submit{
+    margin-left:90% ;
+  }
+  
+  
+  .error-message {
+    color: red;
+    font-size: 0.8em;
+    margin-top: 5px;
+  }
+  

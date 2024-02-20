@@ -1,0 +1,61 @@
+/* ClientRegistration.css */
+
+.clientmain {
+  width: 1026px;
+  margin: 0 auto;
+  padding: 30px;
+  background-color: #f8f9fa; 
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+  text-align: center;
+  }
+  
+  .clientmain .form-section {
+    margin-top: 20px;
+  }
+  
+  .heading {
+    font-size: 28px;
+    margin: 0px;
+  
+    color: #17a2b8; /* Color for the form title */
+  }
+  
+  .clientmain  .form-section label{
+    /* border: 1px solid black; */
+    margin-bottom: 20px;
+    width: 160px;
+   text-align: left;
+  }
+  
+  .clientmain  .form-section input{
+   margin-left: 70px;
+   /* border: 1px solid black; */
+  }
+  
+  button {
+    background-color: #28a745; /* Green background color for the submit button */
+  color: #fff;
+  padding: 15px 20px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 18px; 
+  }
+
+
+  .clientsubmit{
+    margin-left: 78%;
+    margin-top: 10px;
+  }
+  
+  
+  .success-message {
+    color: green;
+    margin-top: 10px;
+  }
+  
+  .error-message {
+    color: red;
+    margin-top: 10px;
+    margin-left: 100px;
+  }

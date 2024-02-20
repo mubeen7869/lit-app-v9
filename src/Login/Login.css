@@ -1,0 +1,63 @@
+.Signup_btn {
+  justify-content: center;
+  align-items: center;
+  margin: 5% 0 0 80%;
+  background-color: black;
+  color: white;
+  font-size: 1vw;
+}
+.Login_page {
+  width: 35vw;
+  height: 80vh;
+  border: 2px solid;
+  border-radius: 1vw;
+  margin: 10% 20% 10% 20%;
+}
+.form_header {
+  display: flex;
+  justify-content: center;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  margin: 10%;
+  justify-content: center;
+  align-items: center;
+}
+.user_value_email {
+  height: 5vh;
+  width: 26vw;
+  border-radius: 1vh;
+  /* border-color: black gray gray black; */
+  /* margin-right: 1vw; */
+}
+.user_value_password {
+  height: 5vh;
+  width: 26vw;
+  border-radius: 1vh;
+  /* margin-bottom: 0.1vw; */
+}
+
+.user_value {
+  height: 6vh;
+
+  width: 10vw;
+
+  border: 1px solid;
+
+  border-radius: 10px;
+
+  padding: 0;
+
+  background-color: black;
+
+  color: white;
+}
+.reset_password {
+  margin-top: -10px;
+  /* margin-left: 0px; */
+  padding: 0%;
+  font-size: 1vw;
+  color: blue;
+}

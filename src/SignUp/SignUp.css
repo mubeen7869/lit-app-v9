@@ -1,0 +1,38 @@
+
+
+.register{
+    font-size: 3vw;
+    margin-left: 100px;
+}
+
+.sign_up_form{
+    display: flex;
+    flex-direction: column;
+    padding: 3vw;
+   
+}
+.inpt{
+    margin-left: 40px;
+}
+
+.btn{
+    margin: 1vw;
+    width: 10vw;
+    height: 6vh;
+    border-radius: 1vh;
+   background-color: black;
+   margin-left: 35px;
+}
+.inptt{
+   margin-left: 40px;
+}
+
+
+.error-msg{
+    border: 1px solid beige;
+    margin-left: 40px;
+    width: 300px;
+    font-size: small;
+    color: red;
+    margin-top: -10px;
+}

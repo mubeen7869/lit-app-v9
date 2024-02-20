@@ -1,0 +1,67 @@
+.vendormain {
+  width: 1026px;
+  margin: 0 auto;
+  padding: 30px;
+  background-color: #f8f9fa; 
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+  text-align: center;
+}
+ 
+.heading {
+  font-size: 28px;
+  margin-bottom: 20px;
+  color: #17a2b8; /* Color for the form title */
+}
+ 
+
+.vendormain  .form-section label{
+  /* border: 1px solid black; */
+  margin-bottom: 20px;
+  width: 160px;
+ text-align: left;
+}
+
+.vendormain  .form-section input{
+ margin-left: 77px;
+ /* border: 1px solid black; */
+}
+
+.side_by_side{
+  display: flex;
+  margin-top: 15px;
+}
+
+button {
+  background-color: #28a745; /* Green background color for the submit button */
+  color: #fff;
+  padding: 15px 20px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 18px; /* Font size for the submit button */
+}
+ 
+
+.firstsix{
+  display: flex;
+  justify-content: space-evenly;
+  /* border: 1px solid red; */
+}
+
+.leftcol{
+  /* border: 1px solid black; */
+  margin-right: 20px;
+  width: 500px;
+}
+
+.rightcol{
+  /* border: 1px solid black; */
+  margin-left: -25px;
+  width: 500px;
+}
+
+.vendorsubmit{
+  margin-left: 80%;
+}
+
+
